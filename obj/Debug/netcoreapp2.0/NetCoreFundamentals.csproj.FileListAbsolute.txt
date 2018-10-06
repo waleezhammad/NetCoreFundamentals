@@ -1,0 +1,11 @@
+E:\github\Repos\NetCoreFundamentals\bin\Debug\netcoreapp2.0\NetCoreFundamentals.deps.json
+E:\github\Repos\NetCoreFundamentals\bin\Debug\netcoreapp2.0\NetCoreFundamentals.runtimeconfig.json
+E:\github\Repos\NetCoreFundamentals\bin\Debug\netcoreapp2.0\NetCoreFundamentals.runtimeconfig.dev.json
+E:\github\Repos\NetCoreFundamentals\bin\Debug\netcoreapp2.0\NetCoreFundamentals.dll
+E:\github\Repos\NetCoreFundamentals\bin\Debug\netcoreapp2.0\NetCoreFundamentals.pdb
+E:\github\Repos\NetCoreFundamentals\obj\Debug\netcoreapp2.0\NetCoreFundamentals.csprojAssemblyReference.cache
+E:\github\Repos\NetCoreFundamentals\obj\Debug\netcoreapp2.0\NetCoreFundamentals.csproj.CoreCompileInputs.cache
+E:\github\Repos\NetCoreFundamentals\obj\Debug\netcoreapp2.0\NetCoreFundamentals.AssemblyInfoInputs.cache
+E:\github\Repos\NetCoreFundamentals\obj\Debug\netcoreapp2.0\NetCoreFundamentals.AssemblyInfo.cs
+E:\github\Repos\NetCoreFundamentals\obj\Debug\netcoreapp2.0\NetCoreFundamentals.dll
+E:\github\Repos\NetCoreFundamentals\obj\Debug\netcoreapp2.0\NetCoreFundamentals.pdb
